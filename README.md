@@ -1,4 +1,4 @@
-# FoodRecipeFinder
+# Food Recipe Finder
 
 A responsive food recipe finder webpage built using HTML, CSS, and JavaScript. Based on a YouTube tutorial, for learning purposes.
 
@@ -16,7 +16,7 @@ A responsive food recipe finder webpage built using HTML, CSS, and JavaScript. B
 
 To view or edit this project locally:
 
-1. Clone the repository: https://github.com/sudutta-bardhan/FoodRecipeFinder.git
+1. Clone the repository: https://github.com/sudutta-bardhan/Food-Recipe-Finder.git
 
 2. Open index.html in your browser.
 

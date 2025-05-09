@@ -11,8 +11,7 @@ A responsive food recipe finder webpage built using HTML, CSS, and JavaScript. B
 
 ## Live Demo
 
-[Visit Live Site](https://sudutta-bardhan.github.io/FoodRecipeFinder/)
-
+[Visit Live Site](https://sudutta-bardhan.github.io/Food-Recipe-Finder/)
 ## Getting Started
 
 To view or edit this project locally:
